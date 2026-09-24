@@ -4,6 +4,18 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_GARCHOMP_MEGA": {
+      "BaseStats": {
+        "HP": 108,
+        "Attack": 170,
+        "Defense": 115,
+        "Speed": 92,
+        "SpAttack": 120,
+        "SpDefense": 95
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_CRUNCH",
